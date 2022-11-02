@@ -1,0 +1,6 @@
+[LOG]: "video is recoding ...." 
+[LOG]: "some operation which use the bitrate" 
+[LOG]: "video was recoded from H264 to HEVC. quality low" 
+[LOG]: "video is recoding ...." 
+[LOG]: "some operation which use the bitrate" 
+[LOG]: "video was recoded from H264 to HEVC. quality high" 
